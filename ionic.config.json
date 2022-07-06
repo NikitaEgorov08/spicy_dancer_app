@@ -1,0 +1,7 @@
+{
+  "name": "spicy_dancer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
